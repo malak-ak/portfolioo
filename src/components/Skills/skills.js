@@ -1,6 +1,5 @@
 import React, { useRef, useEffect, useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { DiDjango } from "react-icons/di";
 import {
   FaHtml5,
   FaCss3Alt,

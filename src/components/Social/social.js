@@ -9,7 +9,6 @@ import {
   SiLinktree,
   SiStackoverflow,
 } from "react-icons/si";
-import { FaXTwitter } from "react-icons/fa6";
 
 import {
   FaGithub,
