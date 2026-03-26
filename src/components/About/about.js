@@ -34,24 +34,16 @@ const About = () => {
           <Col lg={6} className="about-photo-col">
             <div className="about-photo-container">
               <div className="photo-frame">
-                <div className="photo-img">
+              <div className="profile-img-container">
                   {/* <div
                     className="profile-image"
                     style={{ backgroundImage: `url(${profileImage})` }}
                   ></div> */}
                   <img
-  src={profileGif}
-  alt="Malak animated"
-  className="profile-image"
-/>
-
-                  <div className="decoration-circle pink"></div>
-                  <div className="decoration-circle purple"></div>
-                  <div className="decoration-ring"></div>
-                  <div className="tech-dot dot1"></div>
-                  <div className="tech-dot dot2"></div>
-                  <div className="tech-dot dot3"></div>
-                  <div className="tech-dot dot4"></div>
+                    src={profileGif}
+                    alt="Malak animated"
+                    className="profile-image"
+                  />
                 </div>
               </div>
             </div>

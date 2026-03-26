@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { TypeAnimation } from "react-type-animation";
 import "./hero.css";
-import Spline from "@splinetool/react-spline";
+import MalakPhoto from "../About/img/Malak.jpeg";
 
 const Hero = () => {
   const [showRoleAnimation, setShowRoleAnimation] = useState(false);
@@ -106,17 +106,13 @@ const Hero = () => {
             </div>
           </Col>
 
-          {/* Spline Column */}
-          {/* Spline Column */}
-{/* Spline Column */} <Col lg={6} className="spline-col">
- <div className="spline-container"> 
-  <Spline scene="https://prod.spline.design/ax2maGeEd24KiGay/scene.splinecode" className="spline-scene" 
-  style={{ position: "absolute", top: 80, left: 0, width: "100%", 
-    height: "100%",
-     pointerEvents: "none" }}
-    />
-  </div>
-</Col>
+          {/* Profile Photo & Mini Spline Column */}
+          <Col lg={6} className="hero-visual-col text-center">
+            <div className="profile-photo-wrapper">
+              <div className="profile-photo-glow"></div>
+              <img src={MalakPhoto} alt="Malak Ait Khouya Lahcen" className="profile-photo" />
+            </div>
+          </Col>
               
         </Row>
       </Container>
