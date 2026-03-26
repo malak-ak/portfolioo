@@ -14,10 +14,10 @@ import "./projects.css";
 // imgs
 
 import teamflowImg from "./cover_img/teamflow.png";
-import rarebeautyImg from "./cover_img/rare beauty.png";
+import rarebeautyImg from "./cover_img/rare-beauty.png";
 import gamestoreImg from "./cover_img/gamestore.png";
 import portfolioImg from "./cover_img/portfolio.png";
-import phpmysqlImg from "./cover_img/php my sql.png";
+import phpmysqlImg from "./cover_img/php-mysql.png";
 
 const Projects = () => {
   const [expandedProject, setExpandedProject] = useState(null);
