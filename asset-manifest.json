@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolioo/static/css/main.36f4e7b6.css",
+    "main.css": "/portfolioo/static/css/main.512b6c17.css",
     "main.js": "/portfolioo/static/js/main.b0dc9ca5.js",
     "static/media/rare-beauty.png": "/portfolioo/static/media/rare-beauty.7698b86eb05eafeced51.png",
     "static/media/portfolio.png": "/portfolioo/static/media/portfolio.c3e694eb24b733d0af71.png",
@@ -12,11 +12,11 @@
     "static/media/bootstrap-icons.woff2?": "/portfolioo/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/DP.gif": "/portfolioo/static/media/DP.59dd60ada9fd0a829bfe.gif",
     "index.html": "/portfolioo/index.html",
-    "main.36f4e7b6.css.map": "/portfolioo/static/css/main.36f4e7b6.css.map",
+    "main.512b6c17.css.map": "/portfolioo/static/css/main.512b6c17.css.map",
     "main.b0dc9ca5.js.map": "/portfolioo/static/js/main.b0dc9ca5.js.map"
   },
   "entrypoints": [
-    "static/css/main.36f4e7b6.css",
+    "static/css/main.512b6c17.css",
     "static/js/main.b0dc9ca5.js"
   ]
 }
