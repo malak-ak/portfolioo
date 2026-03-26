@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malak-ak.github.io/Portfolio/sitemap.xml
