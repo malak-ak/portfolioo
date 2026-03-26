@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolioo/static/css/main.36f4e7b6.css",
-    "main.js": "/portfolioo/static/js/main.ac913a37.js",
+    "main.js": "/portfolioo/static/js/main.a73b108a.js",
     "static/media/rare-beauty.png": "/portfolioo/static/media/rare-beauty.7698b86eb05eafeced51.png",
     "static/media/portfolio.png": "/portfolioo/static/media/portfolio.c3e694eb24b733d0af71.png",
     "static/media/gamestore.png": "/portfolioo/static/media/gamestore.3032597f144996996f62.png",
@@ -13,10 +13,10 @@
     "static/media/DP.gif": "/portfolioo/static/media/DP.59dd60ada9fd0a829bfe.gif",
     "index.html": "/portfolioo/index.html",
     "main.36f4e7b6.css.map": "/portfolioo/static/css/main.36f4e7b6.css.map",
-    "main.ac913a37.js.map": "/portfolioo/static/js/main.ac913a37.js.map"
+    "main.a73b108a.js.map": "/portfolioo/static/js/main.a73b108a.js.map"
   },
   "entrypoints": [
     "static/css/main.36f4e7b6.css",
-    "static/js/main.ac913a37.js"
+    "static/js/main.a73b108a.js"
   ]
 }
