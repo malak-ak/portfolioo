@@ -13,10 +13,7 @@ import {
 import {
   FaGithub,
   FaLinkedinIn,
-  FaInstagram,
-  FaFacebookF,
-  FaYoutube,
-  FaDiscord,
+
 } from "react-icons/fa";
 import "./social.css";
 
