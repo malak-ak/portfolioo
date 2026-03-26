@@ -257,6 +257,17 @@ const Projects = () => {
                     </div>
 
                     <div className="project-actions">
+                      {project.projectLink && (
+                        <a
+                          href={project.projectLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="action-btn live-btn"
+                          onClick={(e) => e.stopPropagation()}
+                        >
+                          <FaExternalLinkAlt /> Live Demo
+                        </a>
+                      )}
                       {project.githubLink && (
                         <a
                           href={project.githubLink}
