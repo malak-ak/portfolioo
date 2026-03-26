@@ -57,8 +57,8 @@ const Projects = () => {
       longDescription: "This personal portfolio features an engaging UI, smooth animations, and interactive elements. It utilizes technologies like React, custom CSS, Bootstrap, and dynamic Spline 3D objects to create a standout user experience and highlight my Full Stack development skills.",
       skills: ["React", "CSS", "Bootstrap", "Spline"],
       image: portfolioImg,
-      projectLink: "https://malak-ak.github.io/portfolio/",
-      githubLink: "https://github.com/malak-ak/portfolio",
+      projectLink: "https://malak-ak.github.io/portfolioo/",
+      githubLink: "https://github.com/malak-ak/portfolioo",
       date: "2026",
       category: "major",
       emoji: "🧑‍💻",
@@ -266,17 +266,6 @@ const Projects = () => {
                           onClick={(e) => e.stopPropagation()}
                         >
                           <FaGithub /> Code
-                        </a>
-                      )}
-                      {project.projectLink && (
-                        <a
-                          href={project.projectLink}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="action-btn live-btn"
-                          onClick={(e) => e.stopPropagation()}
-                        >
-                          <FaExternalLinkAlt /> Live Demo
                         </a>
                       )}
                     </div>
