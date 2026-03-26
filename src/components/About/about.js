@@ -60,7 +60,7 @@ const About = () => {
                I am a second-year Full Stack Development student at OFPPT (CFPM Sidi Moumen Anassi). Passionate about web development and modern UI design, I am actively looking for a PFE internship starting April to apply my skills in a professional environment. I focus on building responsive, user-friendly, and practical web applications. My tech stack includes HTML, CSS, JavaScript, Bootstrap, React, PHP, MySQL, and Laravel. Beyond standard web development, I am strongly interested in AI and emerging technologies, always eager to learn and contribute to innovative projects.</p>
               <div className="cta-container">
                 <Button
-                  href="https://drive.google.com/file/d/12EfCmAEWHBFWMWIktbMtRIfVaNw8t-Bn/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1nc8hwaSpGilOigDdlHRx_ZqF0qVi8xLj/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="view-resume-btn"
