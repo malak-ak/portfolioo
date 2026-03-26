@@ -1,37 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolioo/static/css/main.ed6d4a92.css",
-    "main.js": "/portfolioo/static/js/main.b5d3590c.js",
-    "static/js/208.9d9254ce.chunk.js": "/portfolioo/static/js/208.9d9254ce.chunk.js",
-    "static/js/293.c4a30103.chunk.js": "/portfolioo/static/js/293.c4a30103.chunk.js",
-    "static/js/917.39a3c9dc.chunk.js": "/portfolioo/static/js/917.39a3c9dc.chunk.js",
-    "static/js/516.f7f04a55.chunk.js": "/portfolioo/static/js/516.f7f04a55.chunk.js",
-    "static/js/519.aca098b9.chunk.js": "/portfolioo/static/js/519.aca098b9.chunk.js",
-    "static/js/946.36b6be0a.chunk.js": "/portfolioo/static/js/946.36b6be0a.chunk.js",
-    "static/js/160.c6278b0a.chunk.js": "/portfolioo/static/js/160.c6278b0a.chunk.js",
-    "static/js/23.ede3b6d8.chunk.js": "/portfolioo/static/js/23.ede3b6d8.chunk.js",
+    "main.css": "/portfolioo/static/css/main.36f4e7b6.css",
+    "main.js": "/portfolioo/static/js/main.ac913a37.js",
     "static/media/rare-beauty.png": "/portfolioo/static/media/rare-beauty.7698b86eb05eafeced51.png",
     "static/media/portfolio.png": "/portfolioo/static/media/portfolio.c3e694eb24b733d0af71.png",
     "static/media/gamestore.png": "/portfolioo/static/media/gamestore.3032597f144996996f62.png",
     "static/media/teamflow.png": "/portfolioo/static/media/teamflow.b1f2b0fa26e8342741a8.png",
     "static/media/php-mysql.png": "/portfolioo/static/media/php-mysql.c7aeaab6603289a50b30.png",
     "static/media/bootstrap-icons.woff?": "/portfolioo/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/Malak.jpeg": "/portfolioo/static/media/Malak.dcbbb9bd5e067bb4dea4.jpeg",
     "static/media/bootstrap-icons.woff2?": "/portfolioo/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/DP.gif": "/portfolioo/static/media/DP.59dd60ada9fd0a829bfe.gif",
     "index.html": "/portfolioo/index.html",
-    "main.ed6d4a92.css.map": "/portfolioo/static/css/main.ed6d4a92.css.map",
-    "main.b5d3590c.js.map": "/portfolioo/static/js/main.b5d3590c.js.map",
-    "208.9d9254ce.chunk.js.map": "/portfolioo/static/js/208.9d9254ce.chunk.js.map",
-    "293.c4a30103.chunk.js.map": "/portfolioo/static/js/293.c4a30103.chunk.js.map",
-    "917.39a3c9dc.chunk.js.map": "/portfolioo/static/js/917.39a3c9dc.chunk.js.map",
-    "516.f7f04a55.chunk.js.map": "/portfolioo/static/js/516.f7f04a55.chunk.js.map",
-    "519.aca098b9.chunk.js.map": "/portfolioo/static/js/519.aca098b9.chunk.js.map",
-    "946.36b6be0a.chunk.js.map": "/portfolioo/static/js/946.36b6be0a.chunk.js.map",
-    "160.c6278b0a.chunk.js.map": "/portfolioo/static/js/160.c6278b0a.chunk.js.map",
-    "23.ede3b6d8.chunk.js.map": "/portfolioo/static/js/23.ede3b6d8.chunk.js.map"
+    "main.36f4e7b6.css.map": "/portfolioo/static/css/main.36f4e7b6.css.map",
+    "main.ac913a37.js.map": "/portfolioo/static/js/main.ac913a37.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed6d4a92.css",
-    "static/js/main.b5d3590c.js"
+    "static/css/main.36f4e7b6.css",
+    "static/js/main.ac913a37.js"
   ]
 }
