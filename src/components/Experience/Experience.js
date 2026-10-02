@@ -59,18 +59,48 @@ const Experience = () => {
     document.body.style.overflow = "auto";
   };
 
-  // Experience data with certificate info
   const experiences = [
+    {
+      id: 7,
+      type: "work",
+      role: "Pre-employment Intern - Development & Dashboards",
+      company: "EMATUS SARL",
+      duration: "Sept. 2026 – Present",
+      location: "Had Soualem",
+      description: "Contributing to the design of dashboards for technical data visualization. Developing digital solutions and monitoring interfaces with Python, APIs, JavaScript, React.js, and Web technologies. Integrating IoT solutions for data collection, transmission, and visualization.",
+      responsibilities: [
+        "Contributed to the design of technical data visualization dashboards",
+        "Participated in developing digital solutions and monitoring interfaces with Python, APIs, JavaScript, React.js",
+        "Contributed to IoT solutions integration: data collection, transmission, and visualization"
+      ],
+      skills: ["Python", "React.js", "JavaScript", "APIs", "IoT", "Web Technologies"]
+    },
+    {
+      id: 6,
+      type: "work",
+      role: "PFE Intern - Back-office & Promotional Data ETL",
+      company: "MFS",
+      duration: "May 2026 – Jun 2026",
+      location: "Casablanca",
+      description: "Participated in developing a centralized back-office for managing promotional data. Designed and implemented an ETL process for data integration. Developed a centralized analytics dashboard (Next.js 15, React 19, TypeScript, Tailwind CSS) connected to ten heterogeneous MongoDB databases.",
+      responsibilities: [
+        "Participated in developing a centralized back-office for managing and consulting promotional data",
+        "Designed and implemented an ETL process for integrating data from multiple databases",
+        "Developed a centralized analytics dashboard connected to ten MongoDB databases via a configurable mapping engine",
+        "Controlled data quality, consistency, and reliability; participated in testing and validation phases"
+      ],
+      skills: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS", "MongoDB", "ETL", "Data Analytics"]
+    },
     {
       id: 5,
       type: "education",
-      role: "Full Stack Development Training",
+      role: "Full Stack Development Training (Graduated)",
       company: "OFPPT – CFPM Sidi Moumen Anassi",
       duration: "2024 – 2026",
       location: "Casablanca",
-      description: "Apprentissage des technologies web frontend et backend, conception de sites dynamiques, gestion de base de données, méthodologie agile, et travail en équipe sur des projets intégrés.",
+      description: "Graduated with a Specialized Technician degree in Digital Development. Learned frontend and backend web technologies, dynamic site design, database management, agile methodology, and teamwork on integrated projects.",
       responsibilities: ["Frontend and Backend development", "Database management", "Agile methodology"],
-      skills: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "React", "Git"]
+      skills: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "React", "Git", "Laravel"]
     },
     {
       id: 4,

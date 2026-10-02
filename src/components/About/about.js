@@ -57,7 +57,7 @@ const About = () => {
               </h1>
 
               <p className="about-text">
-               I am a second-year Full Stack Development student at OFPPT (CFPM Sidi Moumen Anassi). Passionate about web development and modern UI design, I am actively looking for a PFE internship starting April to apply my skills in a professional environment. I focus on building responsive, user-friendly, and practical web applications. My tech stack includes HTML, CSS, JavaScript, Bootstrap, React, PHP, MySQL, and Laravel. Beyond standard web development, I am strongly interested in AI and emerging technologies, always eager to learn and contribute to innovative projects.</p>
+               Full Stack Developer, graduated with a Specialized Technician degree in Digital Development (OFPPT - CFPM) and currently on a pre-employment internship at EMATUS. Passionate about web development and creating modern interfaces, I am proficient in front-end (HTML, CSS, JavaScript, React/Redux, Next.js, Bootstrap) and back-end technologies (PHP, Laravel, Node.js, MySQL, MongoDB). I am currently evolving towards Python, APIs, monitoring dashboards, and IoT, with a strong interest in Artificial Intelligence and innovative web technologies.</p>
               <div className="cta-container">
                 <Button
                   href="https://drive.google.com/file/d/1nc8hwaSpGilOigDdlHRx_ZqF0qVi8xLj/view?usp=sharing"

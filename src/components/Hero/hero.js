@@ -53,7 +53,7 @@ const Hero = () => {
                     sequence={[
                       "Malak Ait Khouya Lahcen",
                       1500,
-                      "Full Stack Developer Student",
+                      "Full Stack Developer",
                       1500,
                       "Web Development Enthusiast",
                       1500,
@@ -78,9 +78,9 @@ const Hero = () => {
               )}
             </h1>
             <p className="lead text-light mb-4">
-              A second-year Full Stack Development student at OFPPT (CFPM)<br></br>
+              A graduated Full Stack Developer from OFPPT (CFPM)<br></br>
               Passionate about web development and modern UI design<br></br>
-              Looking for a PFE internship starting April<br></br>
+              Currently on a pre-employment internship at EMATUS<br></br>
               Focusing on responsive, user-friendly web applications<br></br>
               Interested in AI and emerging technologies
             </p>
