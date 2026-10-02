@@ -53,10 +53,10 @@ const About = () => {
               </h1>
 
               <p className="about-text">
-               Full Stack Developer, graduated with a Specialized Technician degree in Digital Development (OFPPT - CFPM) and currently on a pre-employment internship at EMATUS. Passionate about web development and creating modern interfaces, I am proficient in front-end (HTML, CSS, JavaScript, React/Redux, Next.js, Bootstrap) and back-end technologies (PHP, Laravel, Node.js, MySQL, MongoDB). I am currently evolving towards Python, APIs, monitoring dashboards, and IoT, with a strong interest in Artificial Intelligence and innovative web technologies.</p>
+               Développeuse Full Stack, diplômée du programme Technicien Spécialisé – Développement Digital (OFPPT – CFPM). Animée par une forte appétence pour le développement web et la création d'interfaces modernes, je maîtrise le front-end (HTML, CSS, JavaScript, React/Redux, Next.js, Bootstrap) et le back-end (PHP, Laravel, Node.js, MySQL, MongoDB). J'évolue aujourd'hui vers Python, les API, les tableaux de bord de supervision et l'IoT, et je m'intéresse particulièrement à l'intelligence artificielle et aux technologies web innovantes.</p>
               <div className="cta-container">
                 <Button
-                  href="https://drive.google.com/file/d/1nc8hwaSpGilOigDdlHRx_ZqF0qVi8xLj/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1XC9RqWk_LIMhfzVhE9pZOqNrJzL7K1cT/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="view-resume-btn"

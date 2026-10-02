@@ -80,7 +80,6 @@ const Hero = () => {
             <p className="lead text-light mb-4">
               A graduated Full Stack Developer from OFPPT (CFPM)<br></br>
               Passionate about web development and modern UI design<br></br>
-              Currently on a pre-employment internship at EMATUS<br></br>
               Focusing on responsive, user-friendly web applications<br></br>
               Interested in AI and emerging technologies
             </p>
