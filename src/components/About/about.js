@@ -3,7 +3,7 @@ import { Container, Row, Col, Button } from "react-bootstrap";
 import "./about.css";
 // import profileImage from "./img/dp.jpeg"; // Import your profile image
 import profileGif from "./img/DP.gif";
-
+import Spline from '@splinetool/react-spline';
 const About = () => {
   useEffect(() => {
     // Initialize animation effects
@@ -39,11 +39,7 @@ const About = () => {
                     className="profile-image"
                     style={{ backgroundImage: `url(${profileImage})` }}
                   ></div> */}
-                  <img
-                    src={profileGif}
-                    alt="Malak animated"
-                    className="profile-image"
-                  />
+                  <Spline scene="https://prod.spline.design/D32ihTy4fLcxCrlv/scene.splinecode" />
                 </div>
               </div>
             </div>
