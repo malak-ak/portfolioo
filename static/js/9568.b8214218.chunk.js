@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkportfolio=globalThis.webpackChunkportfolio||[]).push([[9568],{9568(o,a,e){e.d(a,{updateDocumentSchema:()=>h.Ua});var h=e(7517);e(1878),e(1049)}}]);

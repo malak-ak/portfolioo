@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkportfolio=globalThis.webpackChunkportfolio||[]).push([[8655],{8655(o,l,a){a.r(l);var r=a(5594),s=(a(3720),a(9240),a(3815),a(4761),a(6090),a(4004)),c=(a(8303),a(6100));a(7517),a(1878),a(1049);s.c.Cloner=r.a,(0,c.a)("cloners")}}]);
