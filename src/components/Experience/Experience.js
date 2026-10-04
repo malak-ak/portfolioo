@@ -65,7 +65,7 @@ const Experience = () => {
       type: "work",
       role: "Pre-employment Intern - Development & Dashboards",
       company: "EMATUS SARL",
-      duration: "Sept. 2026 – Present",
+      duration: "Sept. 2026 – Oct. 2026",
       location: "Had Soualem",
       description: "Contributing to the design of dashboards for technical data visualization. Developing digital solutions and monitoring interfaces with Python, APIs, JavaScript, React.js, and Web technologies. Integrating IoT solutions for data collection, transmission, and visualization.",
       responsibilities: [

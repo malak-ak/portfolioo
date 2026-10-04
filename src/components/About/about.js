@@ -33,15 +33,7 @@ const About = () => {
         <Row className="align-items-center">
           <Col lg={6} className="about-photo-col">
             <div className="about-photo-container">
-              <div className="photo-frame">
-              <div className="profile-img-container">
-                  {/* <div
-                    className="profile-image"
-                    style={{ backgroundImage: `url(${profileImage})` }}
-                  ></div> */}
-                  <Spline scene="https://prod.spline.design/D32ihTy4fLcxCrlv/scene.splinecode" />
-                </div>
-              </div>
+              <Spline scene="https://prod.spline.design/D32ihTy4fLcxCrlv/scene.splinecode" />
             </div>
           </Col>
 
