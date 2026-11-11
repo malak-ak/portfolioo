@@ -6,7 +6,7 @@ A modern, responsive portfolio built with React.js, featuring smooth animations 
 - 🎨 **Baby Pink & Purple Theme** – Custom design with glassmorphism effects.
 - 📱 **Responsive Design** – Fully mobile-friendly layout.
 - ⚡ **Optimized Performance** – Fast loading and smooth interactions.
-- 🧩 **3D Integration** – Features interactive Spline scenes.
+- 💻 **Interactive UI** – Modern animations and glassmorphism styling.
 
 ## 🛠️ Tech Stack
 - **Framework:** React.js

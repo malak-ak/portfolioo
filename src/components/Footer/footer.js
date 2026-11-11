@@ -141,7 +141,7 @@ const Footer = () => {
           </Col>
         </Row>
 
-        {/* Copyright with Spline credit */}
+        {/* Copyright */}
         <Row className="mt-5 pt-3 border-top border-secondary">
           <Col className="text-center">
             <p className="mb-0 d-flex align-items-center justify-content-center">
@@ -151,16 +151,7 @@ const Footer = () => {
               rights reserved
             </p>
             <p className="mb-0 mt-2">
-              Crafted with <BiHeart className="text-danger mx-1" /> using React,
-              Bootstrap & {" "}
-              <a
-                href="https://app.spline.design/community/file/8cfb6748-f3dd-44dd-89fb-f46c7ab4186e"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-light"
-              >
-                Spline
-              </a>
+              Crafted with <BiHeart className="text-danger mx-1" /> using React & Bootstrap
             </p>
           </Col>
         </Row>

@@ -1,9 +1,8 @@
 import React, { useEffect } from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import "./about.css";
-// import profileImage from "./img/dp.jpeg"; // Import your profile image
-import profileGif from "./img/DP.gif";
-import Spline from '@splinetool/react-spline';
+import aboutVisual from "./img/about-developer.jpg";
+
 const About = () => {
   useEffect(() => {
     // Initialize animation effects
@@ -33,7 +32,15 @@ const About = () => {
         <Row className="align-items-center">
           <Col lg={6} className="about-photo-col">
             <div className="about-photo-container">
-              <Spline scene="https://prod.spline.design/D32ihTy4fLcxCrlv/scene.splinecode" />
+              <div className="photo-frame">
+                <div className="profile-img-container">
+                  <img
+                    src={aboutVisual}
+                    alt="Full Stack Developer"
+                    className="profile-image"
+                  />
+                </div>
+              </div>
             </div>
           </Col>
 
@@ -48,7 +55,7 @@ const About = () => {
                Développeuse Full Stack, diplômée du programme Technicien Spécialisé – Développement Digital (OFPPT – CFPM). Animée par une forte appétence pour le développement web et la création d'interfaces modernes, je maîtrise le front-end (HTML, CSS, JavaScript, React/Redux, Next.js, Bootstrap) et le back-end (PHP, Laravel, Node.js, MySQL, MongoDB). J'évolue aujourd'hui vers Python, les API, les tableaux de bord de supervision et l'IoT, et je m'intéresse particulièrement à l'intelligence artificielle et aux technologies web innovantes.</p>
               <div className="cta-container">
                 <Button
-                  href="https://drive.google.com/file/d/1XC9RqWk_LIMhfzVhE9pZOqNrJzL7K1cT/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1ePqOoWmHdRk79iG8l5ZatZueN1BUndoD/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="view-resume-btn"
